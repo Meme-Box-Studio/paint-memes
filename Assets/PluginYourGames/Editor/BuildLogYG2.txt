@@ -1,0 +1,3 @@
+﻿Build path: /Users/daniilvoronkov/Desktop/versia5risovat
+Build number: 22
+PluginYG version: 2.007
